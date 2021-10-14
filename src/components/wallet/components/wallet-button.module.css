@@ -1,0 +1,51 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  padding: 7px;
+}
+
+.text {
+  font-size: 18px;
+  line-height: 21px;
+  font-weight: 700;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.connectButton {
+  border-radius: 15px !important;
+}
+
+.connectButton:hover {
+  box-shadow: 0 0 0 3px #fff !important;
+}
+
+.highlightedText {
+  color: #E8963E;
+}
+
+.notifications {
+  width: 100%;
+  /*position: fixed !important;*/
+  /*bottom: 50px !important;*/
+  /*top: unset !important;*/
+}
+
+.mintButton {
+  background: linear-gradient(95.54deg, #6BF5A2 -43.74%, #1F9B42 139.04%) !important;
+  box-shadow: 0 0 12px rgba(255, 255, 255, 0.27) !important;
+  color: #fff !important;
+  font-size: 18px;
+  font-weight: 700;
+  min-width: 200px !important;
+}
+
+.purple {
+  background: linear-gradient(95.54deg, #FA5680 -43.74%, #1F319B 139.04%) !important;
+  box-shadow: 0 0 12px rgba(255, 255, 255, 0.27) !important;
+}
+
+.blue {
+  background: linear-gradient(95.54deg, #6BEFF5 -43.74%, #1F319B 139.04%) !important;
+  box-shadow: 0 0 12px rgba(255, 255, 255, 0.27) !important;
+}

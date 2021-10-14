@@ -1,0 +1,78 @@
+.hero {
+  display: grid;
+  grid-template-columns: .6fr .4fr;
+  grid-gap: 180px;
+  margin-top: 50px;
+}
+
+.title {
+  font-size: 36px;
+  line-height: 54px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.subtitle {
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 400;
+  margin: 0;
+}
+
+.colorText {
+  color: #54B7DA;
+}
+
+.numbersBlock {
+  display: flex;
+  margin-top: 20px;
+}
+
+.numbers {
+  display: flex;
+  flex-direction: column;
+}
+
+.numbers:first-child {
+  margin-right: 36px;
+}
+
+.amount {
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 1;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.22);
+  display: flex;
+}
+
+.text {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 20px;
+}
+
+.buttonGroup {
+  display: flex;
+  align-items: center;
+  margin-top: 90px;
+}
+
+.link {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 27px;
+  text-decoration-line: underline;
+  color: #fff;
+  margin-left: 50px;
+}
+
+.image {
+  max-width: 411px;
+}

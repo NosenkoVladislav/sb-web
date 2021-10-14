@@ -1,0 +1,67 @@
+.container {
+  background: radial-gradient(121.63% 216.17% at 2.41% 5.6%, #7C7C7C 0%, rgba(62, 62, 62, 0) 100%);
+  backdrop-filter: blur(300px);
+  border-radius: 15px;
+  padding: 45px 45px 80px 45px;
+  margin-top: 140px;
+  margin-bottom: 140px;
+  position: relative;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 72px;
+  margin: 0;
+  text-align: center;
+}
+
+.subtitle {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  margin: 0;
+  text-align: center;
+}
+
+.list {
+  list-style: decimal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  padding-left: 20px;
+}
+
+.item {
+  margin-bottom: 3px;
+}
+
+.ital {
+  font-style: italic;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.description {
+  display: grid;
+  grid-template-columns: .5fr .5fr;
+  margin-top: 5px;
+}
+
+.videoBlock {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%;
+}
+
+.videoBlock iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}

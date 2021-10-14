@@ -1,0 +1,1 @@
+export { default as HowTo } from "./how-to";
