@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/NosenkoVladislav/sb-web/static/css/main.f2510800.chunk.css",
+    "main.js": "/NosenkoVladislav/sb-web/static/js/main.949fc1be.chunk.js",
+    "main.js.map": "/NosenkoVladislav/sb-web/static/js/main.949fc1be.chunk.js.map",
+    "runtime-main.js": "/NosenkoVladislav/sb-web/static/js/runtime-main.d8ec1369.js",
+    "runtime-main.js.map": "/NosenkoVladislav/sb-web/static/js/runtime-main.d8ec1369.js.map",
+    "static/js/2.8ab5e94e.chunk.js": "/NosenkoVladislav/sb-web/static/js/2.8ab5e94e.chunk.js",
+    "static/js/2.8ab5e94e.chunk.js.map": "/NosenkoVladislav/sb-web/static/js/2.8ab5e94e.chunk.js.map",
+    "static/js/3.0bd0351b.chunk.js": "/NosenkoVladislav/sb-web/static/js/3.0bd0351b.chunk.js",
+    "static/js/3.0bd0351b.chunk.js.map": "/NosenkoVladislav/sb-web/static/js/3.0bd0351b.chunk.js.map",
+    "index.html": "/NosenkoVladislav/sb-web/index.html",
+    "static/css/main.f2510800.chunk.css.map": "/NosenkoVladislav/sb-web/static/css/main.f2510800.chunk.css.map",
+    "static/js/2.8ab5e94e.chunk.js.LICENSE.txt": "/NosenkoVladislav/sb-web/static/js/2.8ab5e94e.chunk.js.LICENSE.txt",
+    "static/media/Shiba Family Solana Shiba Man.2859cbb9.gif": "/NosenkoVladislav/sb-web/static/media/Shiba Family Solana Shiba Man.2859cbb9.gif",
+    "static/media/index.css": "/NosenkoVladislav/sb-web/static/media/background-min.c0eef829.png",
+    "static/media/discord.427350f0.svg": "/NosenkoVladislav/sb-web/static/media/discord.427350f0.svg",
+    "static/media/logo.0bdbf8d5.svg": "/NosenkoVladislav/sb-web/static/media/logo.0bdbf8d5.svg",
+    "static/media/solana-logo.9c72085b.svg": "/NosenkoVladislav/sb-web/static/media/solana-logo.9c72085b.svg",
+    "static/media/twitter.566b13a9.svg": "/NosenkoVladislav/sb-web/static/media/twitter.566b13a9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8ec1369.js",
+    "static/js/2.8ab5e94e.chunk.js",
+    "static/css/main.f2510800.chunk.css",
+    "static/js/main.949fc1be.chunk.js"
+  ]
+}
